@@ -1973,6 +1973,7 @@
 #Fim dos address starlink
 
 #Liberacoes VPN SSL (sob demanda)
+187.33.200.0/23
 #Fim liberacoes VPN SSL
 
 10.0.0.0/8
