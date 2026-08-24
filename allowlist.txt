@@ -1,6 +1,6 @@
 # ALLOW LIST
 # Redes que NUNCA devem ser bloqueadas (infra Verkom + RFC1918 + provedores)
-# Total: 1979 redes
+# Total: 1980 redes
 
 #Starlink
 103.235.92.0/23
@@ -1978,6 +1978,7 @@
 187.33.200.0/23
 189.126.182.0/23
 201.42.0.0/15
+8.243.160.0/20
 #Fim liberacoes VPN SSL
 
 10.0.0.0/8
