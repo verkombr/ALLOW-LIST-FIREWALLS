@@ -1972,6 +1972,12 @@
 98.97.96.0/21
 #Fim dos address starlink
 
+#Liberações Cronos
+94.130.20.161/32
+83.151.202.40/32
+94.130.167.160/32
+191.101.131.53/32
+
 #Liberacoes VPN SSL (sob demanda)
 138.122.40.0/22
 170.80.41.0/24
