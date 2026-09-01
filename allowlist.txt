@@ -1,6 +1,6 @@
 # ALLOW LIST
 # Redes que NUNCA devem ser bloqueadas (infra Verkom + RFC1918 + provedores)
-# Total: 2011 redes
+# Total: 2012 redes
 
 #Starlink
 103.235.92.0/23
@@ -1989,6 +1989,7 @@
 177.55.56.0/23
 177.8.48.0/23
 179.0.108.0/24
+186.194.76.0/22
 186.219.188.0/23
 187.33.200.0/23
 189.126.182.0/23
