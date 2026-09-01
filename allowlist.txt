@@ -1,6 +1,6 @@
 # ALLOW LIST
 # Redes que NUNCA devem ser bloqueadas (infra Verkom + RFC1918 + provedores)
-# Total: 1998 redes
+# Total: 2006 redes
 
 #Starlink
 103.235.92.0/23
@@ -2004,6 +2004,17 @@
 177.36.13.33/32
 186.219.189.244/32
 #Fim Correcao IPs sondagem 31/08
+
+#360dialog webhooks WhatsApp (31/08/2026)
+34.116.153.85/32
+34.116.163.170/32
+34.116.167.0/32
+34.116.217.233/32
+34.116.221.149/32
+34.116.224.100/32
+34.118.1.224/32
+34.118.25.128/32
+#Fim 360dialog webhooks WhatsApp
 
 10.0.0.0/8
 127.0.0.0/8
