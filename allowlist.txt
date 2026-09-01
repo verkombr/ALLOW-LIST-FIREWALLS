@@ -1,6 +1,6 @@
 # ALLOW LIST
 # Redes que NUNCA devem ser bloqueadas (infra Verkom + RFC1918 + provedores)
-# Total: 2009 redes
+# Total: 2010 redes
 
 #Starlink
 103.235.92.0/23
@@ -2024,6 +2024,10 @@
 179.247.224.227/32
 179.247.224.85/32
 #Fim Vivo Telefonica acesso painel
+
+#Liberado-operador-31-08-2026
+187.73.203.104/32
+#Fim liberado-operador-31-08-2026
 
 10.0.0.0/8
 127.0.0.0/8
